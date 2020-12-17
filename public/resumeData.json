@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Daniel Schaaf",
+    "description": "I am a Full Stack web development Engineer, That specializes in JavaScript, C# and React. ",
+    "image": "profilepic.png",
+    "bio": "I am a 7 year army veteran who served two tours overseas in Iraq(2008-2009, 2010-2011).I am a recent graduate of the Epicodus Coding Academy, where i learned Full Stack web development using languages C#, JavaScript, React,HTML5,CSS.I also have knowledge in the Java and Python languages as i have taken college courses in Python and Java.",
+    "contactmessage": "Please if you want to get in contact with me please send me an Email at the following email.",
+    "email": "daniel.schaaf@outlook.com",
+    "phone": "253-328-2979",
+    "github": "https://github.com/dschaaf89",
+    "project": "https://github.com/dschaaf89/portfolioResume",
+    "address": {
+      "street": "1415 151st st ct s",
+      "city": "Spanaway",
+      "state": "Washington",
+      "zip": "98387"
+    },
+    "website": "",
+    "resumedownload": "https://docs.google.com/document/d/e/2PACX-1vRsPkfoLHDE6OPdz4YYGDiWVWh5ujngFrIsAViZ_NuaOM4QylZKnUROnLDwfqf-qbR-7ZfOoewYkX_8/pub",
+    "social": [
+      {
+        "name": "facebook",
+        "url":" https://www.facebook.com/justin.schaaf.3/",
+        "className": "fa fa-facebook"
+      },
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/danielschaaf/",
+        "className": "fa fa-linkedin"
+      },
+    
+      {
+        "name": "github",
+        "url": "https://github.com/dschaaf89",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Epicodus",
+        "degree": "Full Stack Web Development Certification",
+        "graduated": "February 2021",
+        "description": "At Epicodus, I learned about the programming languages of JavaScript, HTML, CSS, C#, React, and .NET. I learned about the best coding practices, from refactoring long code by using recursive and loop statements. i learned that development teams are the foundation, and being able to work with anyone makes you a better programmer."
+      },
+      {
+        "school": "North Seattle College",
+        "degree": "Pursued Associates in Computer Science",
+        "graduated": "2016-2017",
+        "description": "took courses in Java and Python"
+      }
+    ],
+    "work": [
+      {
+        "company": "Comcast",
+        "title": "Territory Sales Executive",
+        "years": "August 2017 - May 2020",
+        "description": "Outside sales representative that is skilled in prospecting and value selling to high valued customers. I maintained a high sales output throughout my time a Comcast."
+      },
+      {
+        "company": "CACI",
+        "title": "Computer System Analyst",
+        "years": "January2015 - May 2016",
+        "description": "I worked as a system analyst working on the JADOCS 2.0 project testing and finding problems in the development. i specialized in developing testing procedures for the software and working hand in hand with the development teams working on the project."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Java",
+        "description": "Java is the second programming language i learned while i was at North Seattle College. ",
+        "image": "java.png"
+      },
+      {
+        "name": "React Js",
+        "description": "I learned React as part of my front end training at Epicodus. I did not like to use it at first especially when adding redux, to applications. it has grown on me as i used it for my Capstone project for Epicodus.",
+        "image": "react.png"
+      },
+      {
+        "name": "C#",
+        "description": "C# was the Back end language that i learned while i was at Epicodus. I feel the most comfortable with this language to build out websites, as Dotnet MVC is very easy to use.",
+        "image": "Csharp.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "The first programming language that i learned at North Seattle, by far the coolest programming language i have learned.",
+        "image": "python.jpg"
+      },
+      {
+        "name": "Bootstrap",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image": "bootstrap.png"
+      },
+      {
+        "name": "MySQL",
+        "description": "The First Database tech that i learned. it is very easy to use.",
+        "image": "mysql.png"
+      },
+      {
+        "name": "JavaScript",
+        "description": "The first programming language that i learned at Epicodus, i am the most familiar with it and tend to always look to go back to this as i design out my projects.",
+        "image": "javascript.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Stock-Market Watch App",
+        "category": "A web application built during the first Team week at Epicodus that lets people create watch lists out of real-time stock data",
+        "image": "stockmarket.jpg",
+        "url": "https://github.com/dschaaf89/stock-market"
+      }
+     
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"No Testimonials at this time",
+        "user":"none"
+      }
+    ]
+  }
+}
