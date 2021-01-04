@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Daniel Schaaf",
-    "description": "I am a Full Stack web development Engineer, That specializes in JavaScript, C# and React. ",
+    "description": "I am a Full Stack web development Engineer, That specializes in JavaScript, C# and React ",
     "image": "profilepic.png",
     "bio": "I am a 7 year army veteran who served two tours overseas in Iraq(2008-2009, 2010-2011).I am a recent graduate of the Epicodus Coding Academy, where i learned Full Stack web development using languages C#, JavaScript, React,HTML5,CSS.I also have knowledge in the Java and Python languages as i have taken college courses in Python and Java.",
     "contactmessage": "Please if you want to get in contact with me please send me an Email at the following email.",
@@ -117,6 +117,12 @@
         "category": "A web application built during the first Team week at Epicodus that lets people create watch lists out of real-time stock data",
         "image": "stockmarket.jpg",
         "url": "https://github.com/dschaaf89/stock-market"
+      },
+      {
+        "title": "Fun With Sara",
+        "category": "This is a website that i built for my Wife as my Capstone At Epicodus",
+        "image": "capstone.jpg",
+        "url": "https://capstone-ccbb4.web.app/"
       }
      
       

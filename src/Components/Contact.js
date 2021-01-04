@@ -69,7 +69,7 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+           <div id="message-warning"> Error you can send me your message thru you mailing platform also by emailing daniel.schaaf@outlook.com</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
