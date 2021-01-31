@@ -16,7 +16,7 @@
       "zip": "98387"
     },
     "website": "",
-    "resumedownload": "https://docs.google.com/document/d/e/2PACX-1vRsPkfoLHDE6OPdz4YYGDiWVWh5ujngFrIsAViZ_NuaOM4QylZKnUROnLDwfqf-qbR-7ZfOoewYkX_8/pub",
+    "resumedownload": "https://docs.google.com/document/d/e/2PACX-1vSVDH9-tXPCwrRkUE_F8EPdQ4IHl_pl0P26QEIfR9WRxYiNtfmsJNmgnFF-1OtfFQ/pub",
     "social": [
       {
         "name": "facebook",
@@ -54,6 +54,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Easy Interface + UGROW",
+        "title": "Full Stack Developer Intern",
+        "years": "January 18,2021 - February 19,2021",
+        "description": "Developed React Native Mobile Application to upload video to AWS S3 bucket and live stream video to Ant-media server"
+      },
       {
         "company": "Comcast",
         "title": "Territory Sales Executive",
